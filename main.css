@@ -84,3 +84,19 @@ section h2 {
 #sports .articles article a {
     background-color: green;
 }
+
+#Jogos_Virtuais{
+    background-color: rgba(49, 170, 226, 0.432);
+}
+
+#Jogos_Virtuais .articles article a {
+    background-color: #1a85ff85;
+}
+
+#Tecnologia {
+    background-color: #26ee41ab;
+}
+
+#Tecnologia .articles article a {
+    background-color: #1aff2dc9;
+}
